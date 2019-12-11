@@ -1,3 +1,9 @@
 {
-    "nombre": "Saul Reyes"
+    "world": [{
+            "city": "Madrid"
+        },
+        {
+            "city": "Mexico"
+        }
+    ]
 }
